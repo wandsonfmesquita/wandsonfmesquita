@@ -41,6 +41,8 @@
 
 ![Solidity](https://img.shields.io/badge/Solidity-2F4858?style=for-the-badge&logo=solidity&logoColor=F7B733)
 
+![Cairo](https://img.shields.io/badge/Cairo-2F4858?style=for-the-badge&logo=cairo&logoColor=F7B733).
+
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wandsonfmesquita&theme=ambient_gradient&bg_color=2F4858&border_color=f2b632&show_icons=true&icon_color=A3C1AD&title_color=F7B733&text_color=F4E2D8)
